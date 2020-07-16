@@ -27,9 +27,3 @@ class String
     counter
   end
 end
-
-sentence_1 = "I am the golden god!"
-sentence_2 = "You are god."
-
-
-
